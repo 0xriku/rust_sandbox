@@ -1,1 +1,1 @@
-# rust_sandbox
+# Fundamentals of Rust syntax
